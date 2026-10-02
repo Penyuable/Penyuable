@@ -1,6 +1,33 @@
-<h1 align="center">Hi, I'm Samuel Bryant Eka Putra 👋</h1>
+<div align="center">
 
-<h3 align="center">Mobile Developer • Frontend Developer • UI/UX Designer</h3>
+  <!-- Banner / Animasi Sambutan (Opsional) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,20,30&height=120&section=header&text=Samuel%20Bryant%20Eka%20Putra&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Mobile%20Developer%20•%20Frontend%20Developer%20•%20UI/UX%20Designer&descSize=14&descAlignY=65" width="100%" />
+
+  <br><br>
+
+  <!-- Jika tidak pakai banner di atas, Anda bisa gunakan heading gradasi teks custom ini -->
+  <!-- 
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"> 
+    Hi, I'm <span style="background: linear-gradient(to right, #58a6ff, #8957e5, #a371f7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Samuel Bryant Eka Putra</span> 👋
+  </h1>
+  -->
+
+  <!-- Badges / Role Chips yang Hidup & Berwarna -->
+  <p>
+    <img src="https://img.shields.io/badge/📱_Mobile_Developer-0052CC?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Frontend_Developer-2ea44f?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎨_UI/UX_Designer-FF5722?style=for-the-badge&logoColor=white" />
+  </p>
+
+  <!-- Dynamic Typing Effect / Subtitle Badge -->
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Mobile+Apps+%26+Modern+Web+Interfaces;Crafting+Intuitive+Digital+Experiences;Turning+Ideas+into+Functional+Applications" alt="Typing SVG" />
+  </p>
+
+</div>
+
+<hr>
 
 <p align="center">
   I'm <b>Samuel Bryant Eka Putra</b>, a developer passionate about building <b>mobile applications, modern web interfaces, and intuitive digital experiences</b>.<br><br>
