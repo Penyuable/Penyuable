@@ -132,14 +132,6 @@ I enjoy working across the development process — from **designing the interfac
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelbryantekaputra&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbryantekaputra&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
