@@ -141,7 +141,7 @@ A management platform designed to connect business divisions and streamline proj
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Bryxy&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=71717A&background=0B0F14" width="100%" alt="GitHub contribution streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Penyuable&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=71717A&background=0B0F14" width="100%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -149,7 +149,7 @@ A management platform designed to connect business divisions and streamline proj
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bryxy&bg_color=0B0F14&color=9CA3AF&line=38BDF8&point=F4F4F5&area=true&area_color=164E63&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Penyuablebg_color=0B0F14&color=9CA3AF&line=38BDF8&point=F4F4F5&area=true&area_color=164E63&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
