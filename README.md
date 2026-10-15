@@ -1,8 +1,12 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:1D4ED8,100:7C3AED&height=180&section=header&text=Samuel%20Bryant%20Eka%20Putra&fontSize=30&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Samuel Bryant Eka Putra banner"/>
+ <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=750&height=65&lines=Samuel+Bryant+Eka+Putra;Mobile+Developer;Frontend+Developer;UI%2FUX+Designer;Building+Digital+Experiences" alt="Looping typing animation"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,25:172554,55:1D4ED8,80:6D28D9,100:0EA5E9&height=260&section=header&text=SAMUEL%20BRYANT%20EKA%20PUTRA&fontSize=34&fontColor=FFFFFF&fontAlignY=42&fontAlign=50&desc=SOFTWARE%20DEVELOPER%20%7C%20MOBILE%20%7C%20FRONTEND%20%7C%20UI%2FUX&descSize=13&descAlignY=62&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Samuel Bryant Eka Putra — Developer Portfolio Banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Building+Modern+Digital+Experiences;Mobile+Apps+%E2%80%A2+Web+Applications;Designing+Interfaces+That+Feel+Right;Turning+Ideas+Into+Reality" alt="Animated developer introduction"/>
+
+</div>
 
 ### Mobile Developer · Frontend Developer · UI/UX Designer
 
