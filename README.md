@@ -1,171 +1,169 @@
-<div align="center">
+ <div align="center">
 
-  <!-- Banner / Animasi Sambutan (Opsional) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,20,30&height=120&section=header&text=Samuel%20Bryant%20Eka%20Putra&fontSize=28&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Mobile%20Developer%20•%20Frontend%20Developer%20•%20UI/UX%20Designer&descSize=14&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=200&section=header&text=Samuel%20Bryant%20Eka%20Putra&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Developer%20%7C%20Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Samuel Bryant Eka Putra banner" />
 
-  <br><br>
+# Hi, I'm Samuel Bryant Eka Putra 👋
 
-  <!-- Jika tidak pakai banner di atas, Anda bisa gunakan heading gradasi teks custom ini -->
-  <!-- 
-  <h1>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"> 
-    Hi, I'm <span style="background: linear-gradient(to right, #58a6ff, #8957e5, #a371f7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Samuel Bryant Eka Putra</span> 👋
-  </h1>
-  -->
+### Building digital products through code, design, and problem-solving.
 
-  <!-- Badges / Role Chips yang Hidup & Berwarna -->
-  <p>
-    <img src="https://img.shields.io/badge/📱_Mobile_Developer-0052CC?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/🌐_Frontend_Developer-2ea44f?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/🎨_UI/UX_Designer-FF5722?style=for-the-badge&logoColor=white" />
-  </p>
+<p>
+  <a href="https://github.com/samuelbryantekaputra">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/samuel-bryant-eka-putra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-2563EB?style=for-the-badge" alt="Development focus"/>
+</p>
 
-  <!-- Dynamic Typing Effect / Subtitle Badge -->
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Mobile+Apps+%26+Modern+Web+Interfaces;Crafting+Intuitive+Digital+Experiences;Turning+Ideas+into+Functional+Applications" alt="Typing SVG" />
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Developing+Mobile+Applications;Building+Modern+Web+Experiences;Designing+Intuitive+User+Interfaces;Turning+Ideas+Into+Working+Products" alt="Developer introduction"/>
 
 </div>
 
-<hr>
-
-<p align="center">
-  I'm <b>Samuel Bryant Eka Putra</b>, a developer passionate about building <b>mobile applications, modern web interfaces, and intuitive digital experiences</b>.<br><br>
-  I have experience working on several projects, including <b>internship projects</b>, academic projects, and personal projects. My main interests are <b>Mobile Development, Frontend Development, and UI/UX Design</b>.<br><br>
-  <i>I enjoy turning ideas and designs into functional, responsive, and user-friendly applications.</i>
-</p>
-
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 📱 **Mobile Developer** focused on Android & cross-platform development
-* 🌐 **Frontend Developer** building modern and responsive web applications
-* 🎨 **UI/UX Designer** focused on clean and intuitive interfaces
-* 💼 Experienced in working on several **internship and real-world projects**
-* 🧩 Interested in software architecture, API integration, and application development
-* 📚 Always learning and exploring new technologies
+I'm a developer passionate about building **mobile applications, modern web platforms, and intuitive digital experiences**.
 
----
+My work combines frontend engineering, mobile development, and UI/UX design to create applications that are functional, responsive, and user-friendly.
+
+- 📱 Building Android and cross-platform mobile applications.
+- 🌐 Developing modern web interfaces with React and Next.js.
+- 🎨 Translating ideas into UI/UX designs and interactive prototypes.
+- 🔌 Integrating APIs and connecting applications with backend services.
+- 💼 Working on internship, academic, and personal development projects.
+- 🚀 Continuously improving my engineering practices and software development workflow.
+
+> My goal is to build digital products that combine thoughtful design, reliable functionality, and meaningful user experiences.
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart"/>
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,android,flutter,dart" alt="Kotlin Android Flutter Dart"/>
 </p>
-<b>Kotlin • Android • Flutter • Dart</b>
 
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" alt="React Next.js TypeScript JavaScript HTML CSS Tailwind"/>
 </p>
-<b>React • Next.js • Tailwind CSS • HTML • CSS • JavaScript</b>
 
-### ⚙️ Backend & Programming
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS"/>
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,java,postgres,supabase,prisma" alt="NestJS Node.js Java PostgreSQL Supabase Prisma"/>
 </p>
-<b>Java • NestJS</b>
 
-### 🎨 UI/UX Design
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+### Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman" alt="Figma Git GitHub VS Code Postman"/>
 </p>
-<b>Figma • UI Design • UX Design • Prototyping</b>
 
----
+## 🚀 Featured Project
 
-## 💻 What I Do
+### LUXO Management Dashboard
 
-```text
-📱 Mobile Development
-   ├── Android
-   ├── Kotlin
-   ├── Flutter
-   └── Dart
+A management platform designed to connect business divisions and streamline project monitoring.
 
-🌐 Frontend Development
-   ├── React
-   ├── Next.js
-   ├── JavaScript
-   ├── HTML
-   ├── CSS
-   └── Tailwind CSS
+**Key areas of development:**
+- 📊 Dashboard for monitoring progress across divisions.
+- 📋 Project management, task assignment, and status tracking.
+- 🖥️ IT support requests and system monitoring.
+- 💰 Finance and budget management.
+- 📅 Calendar, reporting, and document management.
+- 🔗 Integration between frontend, backend, and database services.
 
-⚙️ Backend Development
-   ├── NestJS
-   └── Java
+**Technologies:** Next.js, React, Tailwind CSS, NestJS, Supabase, PostgreSQL, Prisma.
 
-🎨 UI/UX
-   ├── Figma
-   ├── Wireframing
-   ├── Prototyping
-   └── Interface Design
-```
+<p>
+  <a href="https://github.com/kmgitgroup/luxomanagementdashboard">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View LUXO project"/>
+  </a>
+</p>
 
----
+## 💼 Experience & Development
 
-## 📂 Experience & Projects
+My development experience includes:
 
-Throughout my development journey, I have worked on various projects involving:
-* 📱 Android mobile applications
-* 📱 Cross-platform applications using Flutter
-* 🌐 Responsive websites and web applications
-* ⚛️ React & Next.js frontend applications
-* 🔌 REST API integration
-* 🗄️ Backend services using NestJS
-* 🎨 UI/UX design and prototyping
-* 💼 Internship-based projects
-* 🎓 Academic and personal projects
+- Mobile application development with Kotlin, Android, Flutter, and Dart.
+- Responsive web application development using React and Next.js.
+- UI implementation based on design specifications and Figma prototypes.
+- REST API integration and backend service development.
+- Database integration and application data management.
+- Collaborative development, version control, and project iteration.
 
-I enjoy working across the development process — from **designing the interface in Figma**, implementing the **frontend/mobile application**, connecting it with **APIs**, and improving the overall user experience.
+I enjoy working across the development lifecycle, from interface design and implementation to API integration, testing, and refinement.
 
----
+## 📈 GitHub Work Performance
 
+I use GitHub activity to track my development consistency, coding contributions, and progress over time.
 
-## 🔥 Contribution Streak
+### Contribution Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samuelbryantekaputra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelbryantekaputra&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub contribution statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbryantekaputra&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180" alt="Most used programming languages"/>
 </p>
 
----
+### Coding Consistency & Streak
 
-## 🌱 Currently Learning
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samuelbryantekaputra&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution streak"/>
+</p>
 
-I'm continuously improving my skills in:
-* 🚀 Modern frontend architecture
-* 📱 Advanced mobile application development
-* 🔌 REST API & backend integration
-* 🏗️ Software architecture
-* 🎨 UI/UX and design systems
-* ☁️️ Cloud-based application development
+### Development Activity — Last 31 Days
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelbryantekaputra&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+</p>
 
-## 📫 Connect With Me
+### How I Evaluate My Work
 
-<p align="left">
+| Indicator | What it measures |
+|---|---|
+| Commit activity | Frequency of recorded code changes |
+| Contribution consistency | How regularly I contribute over time |
+| Active-day patterns | Distribution of development activity |
+| Language distribution | Languages used across public repositories |
+| Pull requests & reviews | Collaboration and code review activity |
+
+**My performance philosophy:** focus on consistent progress, meaningful code changes, and maintainable solutions—not simply the number of pushes.
+
+*Note: These cards use third-party statistics services. Public repository activity is the default for many metrics, and private contributions may not be included. A Git push is also not the same as a commit or a contribution day.*
+
+## 🌱 Currently Improving
+
+- 🏗️ Frontend architecture and reusable component systems.
+- 📱 Advanced Android and cross-platform development.
+- 🔌 API integration and backend engineering.
+- 🗄️ Database design and application performance.
+- ☁️ Cloud infrastructure and deployment.
+- 🎨 UI/UX design systems and accessibility.
+- 🧪 Testing, debugging, and development workflows.
+
+## 🤝 Let's Connect
+
+I'm open to connecting with developers, designers, and teams who enjoy building useful digital products.
+
+<p>
   <a href="https://github.com/samuelbryantekaputra">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
-  <a href="linkedin.com/in/samuel-bryant-eka-putra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/samuel-bryant-eka-putra">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">💡 <i>"Building interfaces, solving problems, and turning ideas into digital experiences."</i></h3>
+<div align="center">
 
-<p align="center">Thanks for visiting my profile! 🚀</p>
+### 💡 Design with purpose. Build with passion. Improve continuously.
+
+*Thanks for visiting my profile. Let's build something meaningful! 🚀*
+
+</div>
