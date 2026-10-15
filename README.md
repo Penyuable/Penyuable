@@ -204,12 +204,14 @@ Tracking development activity helps me understand my contribution patterns and c
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Penyuable&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=71717A&background=0B0F14" width="100%" alt="Penyuable contribution streak"/>
 </p>
 
-### Development Activity
+### GitHub Contribution Overview
 
 <p align="center">
-  <a href="https://github.com/Penyuable">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Penyuable&bg_color=0B0F14&color=9CA3AF&line=38BDF8&point=F4F4F5&area=true&area_color=164E63&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Penyuable development activity graph"/>
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Penyuable&theme=github_dark"
+    alt="Penyuable GitHub contribution overview"
+    width="100%"
+  />
 </p>
 
 ### Performance Indicators
