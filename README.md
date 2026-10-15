@@ -4,10 +4,10 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=1000&color=F4F4F5&center=true&vCenter=true&width=850&height=65&lines=Samuel+Bryant+Eka+Putra;Mobile+Developer;Frontend+Developer;UI%2FUX+Designer" alt="Animated developer name and roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=1000&color=F4F4F5&center=true&vCenter=true&width=850&height=65&lines=Samuel+Bryant+Eka+Putra;Mobile+Developer;Frontend+Developer;UI%2FUX+Designer" alt="Samuel Bryant Eka Putra"/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=30&lines=Designing+thoughtful+interfaces.;Building+modern+digital+experiences.;From+ideas+to+functional+applications." alt="Animated developer tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=30&lines=Designing+thoughtful+interfaces.;Building+modern+digital+experiences.;From+ideas+to+functional+applications." alt="Developer tagline"/>
 </p>
 
 <p>
@@ -15,8 +15,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/Penyuable">
-    <img src="https://img.shields.io/badge/GitHub-Penyuable-18181B?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub"/>
+  <a href="https://github.com/Bryxy">
+    <img src="https://img.shields.io/badge/GitHub-Bryxy-18181B?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/samuel-bryant-eka-putra">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
@@ -48,109 +48,49 @@ I enjoy working across the development process, from designing interfaces to imp
 
 ## Tech Stack
 
+<div align="center">
+
 ### Mobile Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,android,flutter,dart" alt="Kotlin, Android, Flutter, Dart"/>
-</p>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart&theme=dark" alt="Kotlin, Flutter, Dart"/>
+<img src="https://cdn.simpleicons.org/android/3DDC84" height="48" alt="Android"/>
 
-| Technology | Description |
-|---|---|
-| **Kotlin** | Developing native Android applications with modern programming practices. |
-| **Android** | Building applications for the Android platform. |
-| **Flutter** | Creating cross-platform mobile applications from a shared codebase. |
-| **Dart** | Implementing application logic and UI components in Flutter. |
+### Frontend Development
 
-### Frontend Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS"/>
-</p>
-
-| Technology | Description |
-|---|---|
-| **React** | Building interactive interfaces using reusable components. |
-| **Next.js** | Developing React applications with routing, rendering, and performance features. |
-| **TypeScript** | Adding static typing to improve code reliability and maintainability. |
-| **JavaScript** | Implementing application logic and dynamic interactions. |
-| **HTML5** | Structuring semantic and accessible web content. |
-| **CSS3** | Styling responsive layouts, animations, and interface elements. |
-| **Tailwind CSS** | Creating consistent interfaces using utility-first styling. |
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS"/>
 
 ### Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,java" alt="NestJS, Node.js, Java"/>
-</p>
-
-| Technology | Description |
-|---|---|
-| **NestJS** | Building structured backend applications and REST APIs. |
-| **Node.js** | Running JavaScript applications on the server. |
-| **Java** | Developing object-oriented applications and programming logic. |
-| **REST API** | Connecting frontend and mobile applications with backend services. |
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,java&theme=dark" alt="NestJS, Node.js, Java"/>
 
 ### Database & Data Management
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" alt="PostgreSQL, Supabase, Prisma"/>
-</p>
-
-| Technology | Description |
-|---|---|
-| **PostgreSQL** | Managing relational data with SQL, tables, and relationships. |
-| **Supabase** | Working with PostgreSQL-based backend services and authentication. |
-| **Prisma** | Defining data models and interacting with databases through an ORM. |
+<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma&theme=dark" alt="PostgreSQL, Supabase, Prisma"/>
 
 ### UI/UX Design
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
-</p>
-
-| Skill | Description |
-|---|---|
-| **UI Design** | Designing clean and consistent interfaces. |
-| **UX Design** | Improving usability and user journeys. |
-| **Wireframing** | Planning page structure and information hierarchy. |
-| **Prototyping** | Creating interactive previews before development. |
-| **Design Systems** | Maintaining consistency in colors, typography, spacing, and components. |
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"/>
 
 ### Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code, Postman"/>
 
-| Tool | Description |
-|---|---|
-| **Git** | Tracking changes and managing source code history. |
-| **GitHub** | Hosting repositories and collaborating on software projects. |
-| **VS Code** | Editing code and managing development workflows. |
-| **Postman** | Testing API requests and responses. |
-
-*The technologies listed represent my development toolkit. My experience may vary by technology.*
+</div>
 
 ---
 
 ## What I Do
 
-```text
-01 / MOBILE DEVELOPMENT
-    Android · Kotlin · Flutter · Dart
+<div align="center">
 
-02 / FRONTEND ENGINEERING
-    React · Next.js · TypeScript · JavaScript
-    HTML · CSS · Tailwind CSS
+| Area | Focus |
+|:---:|---|
+| **01 · Mobile** | Android, Kotlin, Flutter, Dart |
+| **02 · Frontend** | React, Next.js, JavaScript, TypeScript |
+| **03 · Backend & Data** | NestJS, REST APIs, PostgreSQL, Supabase |
+| **04 · UI/UX** | Figma, Wireframing, Prototyping, Design Systems |
 
-03 / BACKEND & DATA
-    NestJS · Node.js · REST APIs
-    PostgreSQL · Supabase · Prisma
-
-04 / UI/UX DESIGN
-    Figma · Wireframing · Prototyping
-    Responsive Interfaces · Design Systems
-```
+</div>
 
 ---
 
@@ -173,7 +113,7 @@ A management platform designed to connect business divisions and streamline proj
 
 <p>
   <a href="https://github.com/kmgitgroup/luxomanagementdashboard">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=flat-square&logo=github&logoColor=38BDF8" alt="View project repository"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=flat-square&logo=github&logoColor=38BDF8" alt="View LUXO project"/>
   </a>
 </p>
 
@@ -187,53 +127,38 @@ A management platform designed to connect business divisions and streamline proj
 
 ---
 
-## GitHub Performance
+## GitHub Statistics
 
-Tracking development activity helps me understand my contribution patterns and consistency over time.
+<div align="center">
 
-### GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=Bryxy&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14&rank_icon=github" height="180" alt="GitHub statistics"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Penyuable&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14&rank_icon=github" height="180" alt="Penyuable GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penyuable&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14" height="180" alt="Penyuable programming language statistics"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryxy&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14" height="180" alt="Most used programming languages"/>
+
+</div>
 
 ### Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Penyuable&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=71717A&background=0B0F14" width="100%" alt="Penyuable contribution streak"/>
-</p>
+<div align="center">
 
-### GitHub Contribution Overview
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Bryxy&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=71717A&background=0B0F14" width="100%" alt="GitHub contribution streak"/>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Penyuable&theme=github_dark"
-    alt="Penyuable GitHub contribution overview"
-    width="100%"
-  />
-</p>
+</div>
 
-### Performance Indicators
+### Contribution Activity
 
-| Indicator | Description |
-|---|---|
-| **Commit Activity** | Tracks recorded code changes over time. |
-| **Contribution Consistency** | Shows contribution patterns across active days. |
-| **Language Distribution** | Shows languages represented in tracked repositories. |
-| **Collaboration** | Pull requests, reviews, and project participation. |
-| **Project Delivery** | Features completed, bugs resolved, and improvements delivered. |
+<div align="center">
 
-My focus is on **consistent progress, meaningful code changes, maintainability, and completed features** rather than maximizing the number of pushes.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bryxy&bg_color=0B0F14&color=9CA3AF&line=38BDF8&point=F4F4F5&area=true&area_color=164E63&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
 
-*These statistics rely on GitHub data and external services. A push, commit, and contribution are different metrics. The cards do not independently measure code quality, working hours, or overall job performance.*
+</div>
 
 ---
 
 ## Currently Improving
 
 - Modern frontend architecture and reusable components.
-- Advanced Android and cross-platform development.
+- Android and cross-platform application development.
 - API integration and backend engineering.
 - Database design and query optimization.
 - Cloud infrastructure and application deployment.
@@ -246,18 +171,17 @@ My focus is on **consistent progress, meaningful code changes, maintainability, 
 
 I'm interested in connecting with developers, designers, and teams who enjoy building useful digital products and solving real-world problems.
 
-<p>
-  <a href="https://github.com/Penyuable">
-    <img src="https://img.shields.io/badge/GITHUB-Penyuable-18181B?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
-  </a>
-  <a href="https://linkedin.com/in/samuel-bryant-eka-putra">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-18181B?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn profile"/>
-  </a>
-</p>
-
----
-
 <div align="center">
+
+<a href="https://github.com/Bryxy">
+  <img src="https://img.shields.io/badge/GITHUB-Bryxy-18181B?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
+</a>
+
+<a href="https://linkedin.com/in/samuel-bryant-eka-putra">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-18181B?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn profile"/>
+</a>
+
+<br/><br/>
 
 <sub>DESIGN WITH PURPOSE. BUILD WITH PRECISION. IMPROVE CONTINUOUSLY.</sub>
 
