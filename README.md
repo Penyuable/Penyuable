@@ -131,9 +131,9 @@ A management platform designed to connect business divisions and streamline proj
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bryxy&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14&rank_icon=github" height="180" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Penyuable&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14&rank_icon=github" height="180" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryxy&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14" height="180" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penyuable&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14" height="180" alt="Most used programming languages"/>
 
 </div>
 
