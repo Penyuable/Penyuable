@@ -1,29 +1,27 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=18&section=header" width="100%" alt="Minimal dark header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=8&section=header" width="100%" alt="Minimal header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=1000&color=F4F4F5&center=true&vCenter=true&width=850&height=65&lines=Samuel+Bryant+Eka+Putra;Mobile+Developer;Frontend+Developer;UI%2FUX+Designer" alt="Samuel Bryant Eka Putra"/>
+# Samuel Bryant Eka Putra
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=30&lines=Designing+thoughtful+interfaces.;Building+modern+digital+experiences.;From+ideas+to+functional+applications." alt="Developer tagline"/>
-</p>
+**Mobile Developer · Frontend Developer · UI/UX Designer**
 
-<p>
-  <sub>MOBILE DEVELOPMENT &nbsp; · &nbsp; FRONTEND ENGINEERING &nbsp; · &nbsp; UI/UX DESIGN</sub>
-</p>
+Building digital experiences through thoughtful design and modern technology.
 
-<p>
-  <a href="https://github.com/Bryxy">
-    <img src="https://img.shields.io/badge/GitHub-Bryxy-18181B?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/samuel-bryant-eka-putra">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
-  </a>
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=footer" width="100%" alt="Cyan divider"/>
+<a href="https://github.com/Bryxy">
+  <img src="https://img.shields.io/badge/GitHub-Bryxy-161B22?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/samuel-bryant-eka-putra">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=1&section=footer" width="100%" alt="Accent divider"/>
 
 </div>
 
@@ -113,7 +111,7 @@ A management platform designed to connect business divisions and streamline proj
 
 <p>
   <a href="https://github.com/kmgitgroup/luxomanagementdashboard">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-18181B?style=flat-square&logo=github&logoColor=38BDF8" alt="View LUXO project"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=flat-square&logo=github&logoColor=38BDF8" alt="View LUXO project"/>
   </a>
 </p>
 
@@ -131,9 +129,9 @@ A management platform designed to connect business divisions and streamline proj
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Penyuable&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14&rank_icon=github" height="180" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bryxy&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14&rank_icon=github" height="180" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penyuable&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14" height="180" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryxy&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14" height="180" alt="Most used programming languages"/>
 
 </div>
 
@@ -141,7 +139,7 @@ A management platform designed to connect business divisions and streamline proj
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Penyuable&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=71717A&background=0B0F14" width="100%" alt="GitHub contribution streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Bryxy&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=71717A&background=0B0F14" width="100%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -149,7 +147,7 @@ A management platform designed to connect business divisions and streamline proj
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Penyuablebg_color=0B0F14&color=9CA3AF&line=38BDF8&point=F4F4F5&area=true&area_color=164E63&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bryxy&bg_color=0B0F14&color=9CA3AF&line=38BDF8&point=F4F4F5&area=true&area_color=164E63&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -174,19 +172,23 @@ I'm interested in connecting with developers, designers, and teams who enjoy bui
 <div align="center">
 
 <a href="https://github.com/Bryxy">
-  <img src="https://img.shields.io/badge/GITHUB-Bryxy-18181B?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GITHUB-Bryxy-161B22?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
 </a>
 
 <a href="https://linkedin.com/in/samuel-bryant-eka-putra">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-18181B?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn profile"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-161B22?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn profile"/>
 </a>
 
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=1&section=footer" width="100%" alt="Accent divider"/>
+
+<br/>
 
 <sub>DESIGN WITH PURPOSE. BUILD WITH PRECISION. IMPROVE CONTINUOUSLY.</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=18&section=footer" width="100%" alt="Minimal dark footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=8&section=footer" width="100%" alt="Minimal footer"/>
 
 </div>
