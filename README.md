@@ -129,9 +129,9 @@ A management platform designed to connect business divisions and streamline proj
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bryxy&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14&rank_icon=github" height="180" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Penyuable&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14&rank_icon=github" height="180" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryxy&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14" height="180" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penyuable&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14" height="180" alt="Most used programming languages"/>
 
 </div>
 
@@ -139,7 +139,7 @@ A management platform designed to connect business divisions and streamline proj
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Bryxy&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=71717A&background=0B0F14" width="100%" alt="GitHub contribution streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Penyuable&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=71717A&background=0B0F14" width="100%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -147,7 +147,7 @@ A management platform designed to connect business divisions and streamline proj
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bryxy&bg_color=0B0F14&color=9CA3AF&line=38BDF8&point=F4F4F5&area=true&area_color=164E63&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Penyuable&bg_color=0B0F14&color=9CA3AF&line=38BDF8&point=F4F4F5&area=true&area_color=164E63&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -171,7 +171,7 @@ I'm interested in connecting with developers, designers, and teams who enjoy bui
 
 <div align="center">
 
-<a href="https://github.com/Bryxy">
+<a href="https://github.com/Penyuable">
   <img src="https://img.shields.io/badge/GITHUB-Bryxy-161B22?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
 </a>
 
