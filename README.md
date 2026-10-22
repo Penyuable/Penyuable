@@ -142,7 +142,7 @@ A management platform designed to connect business divisions and streamline proj
 
 <img src="https://github-readme-stats.vercel.app/api?username=Penyuable&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14&rank_icon=github" height="180" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryxy&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14" height="180" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penyuable&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14" height="180" alt="Most used programming languages"/>
 
 </div>
 
@@ -183,7 +183,7 @@ I'm interested in connecting with developers, designers, and teams who enjoy bui
 <div align="center">
 
 <a href="https://github.com/Penyuable">
-  <img src="https://img.shields.io/badge/GITHUB-Bryxy-11151C?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GITHUB-Penyuable-11151C?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/samuel-bryant-eka-putra">
