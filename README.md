@@ -154,14 +154,6 @@ A management platform designed to connect business divisions and streamline proj
 
 </div>
 
-### Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Penyuable&bg_color=0B0F14&color=9CA3AF&line=38BDF8&point=F4F4F5&area=true&area_color=164E63&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
-
-</div>
-
 ## Connect
 
 I'm interested in connecting with developers, designers, and teams who enjoy building useful digital products and solving real-world problems.
