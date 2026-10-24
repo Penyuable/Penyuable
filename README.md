@@ -162,20 +162,6 @@ A management platform designed to connect business divisions and streamline proj
 
 </div>
 
----
-
-## Currently Improving
-
-- Modern frontend architecture and reusable components.
-- Android and cross-platform application development.
-- API integration and backend engineering.
-- Database design and query optimization.
-- Cloud infrastructure and application deployment.
-- UI/UX design systems and accessibility.
-- Testing, debugging, and code quality.
-
----
-
 ## Connect
 
 I'm interested in connecting with developers, designers, and teams who enjoy building useful digital products and solving real-world problems.
