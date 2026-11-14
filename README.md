@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/PORTFOLIO-SOFTWARE%20DEVELOPER-11151C?style=flat-square&labelColor=11151C&color=11151C" />
 
 # Samuel Bryant Eka Putra
 
