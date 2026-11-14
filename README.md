@@ -1,160 +1,180 @@
  <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=5&section=header" width="100%" alt="Dark minimal header"/>
-<br/><br/>
-<p>
-  <sub>PORTFOLIO &nbsp; / &nbsp; SOFTWARE DEVELOPMENT &nbsp; / &nbsp; UI/UX</sub>
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=8" width="100%" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/PORTFOLIO-SOFTWARE%20DEVELOPER-11151C?style=flat-square&labelColor=11151C&color=11151C" />
+
 # Samuel Bryant Eka Putra
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=header" width="72" alt="Cyan accent"/>
+
+### Mobile Developer · Frontend Developer · UI/UX Designer
+
+Building digital products through engineering, thoughtful interfaces, and purposeful design.
+
 <br/>
-**Mobile Developer** &nbsp; · &nbsp; **Frontend Developer** &nbsp; · &nbsp; **UI/UX Designer**
-<p>
-  <sub>Building digital experiences through thoughtful design and modern technology.</sub>
-</p>
-<br/>
+
 <a href="https://github.com/Bryxy">
-  <img src="https://img.shields.io/badge/GitHub-Bryxy-11151C?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Bryxy-0B0F14?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/samuel-bryant-eka-putra">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-11151C?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0B0F14?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
+
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=252B35&height=1&section=footer" width="100%" alt="Header divider"/>
-</div>
----
-## About Me
-I'm a developer focused on building **modern mobile applications, responsive web interfaces, and intuitive digital experiences**.
-My approach combines software engineering and interface design to turn ideas into practical, user-friendly products.
-- Mobile application development with Kotlin, Android, Flutter, and Dart.
-- Frontend engineering with React, Next.js, JavaScript, and Tailwind CSS.
-- UI/UX design, wireframing, and prototyping with Figma.
-- Backend integration using REST APIs and NestJS.
-- Database management using PostgreSQL and Supabase.
-- Project development across internship, academic, and personal projects.
 
-I enjoy working across the development process, from designing interfaces to implementing features, integrating APIs, and refining the user experience.
-
----
-## Tech Stack
-<div align="center">
-### Mobile Development
-<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart&theme=dark" alt="Kotlin, Flutter, Dart"/>
-<img src="https://cdn.simpleicons.org/android/3DDC84" height="48" alt="Android"/>
-
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS"/>
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,java&theme=dark" alt="NestJS, Node.js, Java"/>
-
-### Database & Data Management
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma&theme=dark" alt="PostgreSQL, Supabase, Prisma"/>
-
-### UI/UX Design
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"/>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code, Postman"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=252B35&height=1" width="65%" />
 
 </div>
 
----
+## 01 / About
 
-## What I Do
+I'm a software developer interested in building applications that combine **reliable engineering, intuitive interfaces, and meaningful user experiences.**
+
+My work spans mobile application development, frontend engineering, backend integration, and UI/UX design. I enjoy transforming ideas into functional digital products, from initial concepts and interface design to implementation and deployment.
+
+**What I work with:**
+
+- Mobile application development using Kotlin, Android, Flutter, and Dart.
+- Frontend development using React, Next.js, TypeScript, and Tailwind CSS.
+- Backend development and REST API integration using NestJS and Node.js.
+- Database architecture and management using PostgreSQL and Supabase.
+- Interface design, wireframing, and prototyping using Figma.
+
+## 02 / Technical Expertise
 
 <div align="center">
 
-| Area | Focus |
-|:---:|---|
-| **01 · Mobile** | Android, Kotlin, Flutter, Dart |
-| **02 · Frontend** | React, Next.js, JavaScript, TypeScript |
-| **03 · Backend & Data** | NestJS, REST APIs, PostgreSQL, Supabase |
-| **04 · UI/UX** | Figma, Wireframing, Prototyping, Design Systems |
+### MOBILE ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=kotlin,android,flutter,dart&theme=dark" />
+
+<br/><br/>
+
+### FRONTEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" />
+
+<br/><br/>
+
+### BACKEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java&theme=dark" />
+
+<br/><br/>
+
+### DATABASE & ORM
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma&theme=dark" />
+
+<br/><br/>
+
+### DESIGN & DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman&theme=dark" />
 
 </div>
 
----
+## 03 / What I Build
 
-## Featured Project
+| Discipline | Capabilities |
+|:--|:--|
+| **Mobile Development** | Android applications, Flutter, Kotlin, Dart |
+| **Frontend Development** | Responsive interfaces, web applications, component architecture |
+| **Backend Development** | REST APIs, server-side logic, system integration |
+| **Database Engineering** | PostgreSQL, Supabase, Prisma, data modeling |
+| **UI/UX Design** | Wireframes, prototypes, interface systems, user experience |
+
+## 04 / Featured Project
 
 ### LUXO Management Dashboard
 
-A management platform designed to connect business divisions and streamline project monitoring and collaboration.
+<sub>BUSINESS MANAGEMENT · FULL-STACK WEB APPLICATION</sub>
 
-**Development areas**
+A centralized management platform designed to connect business divisions, streamline operational workflows, and improve organizational visibility.
 
-- Dashboard for monitoring progress across divisions.
-- Project management, task assignment, and status tracking.
-- IT support requests and system monitoring.
-- Finance and budget management.
-- Calendar, reporting, and document management.
-- Integration between frontend, backend, and database services.
+**Core Modules**
 
-**Technology stack:** Next.js, React, Tailwind CSS, NestJS, Supabase, PostgreSQL, and Prisma.
+- **Management Dashboard** — Centralized business and operational overview.
+- **Project Management** — Project monitoring, task assignments, and progress tracking.
+- **Operational Management** — Operational workflows, schedules, and issue tracking.
+- **Finance Management** — Budget monitoring, financial records, and approvals.
+- **IT Management** — IT support requests, system monitoring, and asset management.
+- **Reporting & Documents** — Business reporting and document review workflows.
+- **Calendar** — Centralized schedules and meeting coordination.
 
-<p>
-  <a href="https://github.com/kmgitgroup/luxomanagementdashboard">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-11151C?style=flat-square&logo=github&logoColor=38BDF8" alt="View LUXO project"/>
-  </a>
-</p>
+**Technology**
 
-### Other Development Experience
-
-- Android and cross-platform mobile applications.
-- Responsive websites and modern web applications.
-- REST API integration and backend connectivity.
-- UI/UX design and interactive prototyping.
-- Internship, academic, and personal software projects.
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Penyuable&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14&rank_icon=github" height="180" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penyuable&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=38BDF8&text_color=9CA3AF&bg_color=0B0F14" height="180" alt="Most used programming languages"/>
-
-</div>
-
-### Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Penyuable&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=9CA3AF&dates=71717A&background=0B0F14" width="100%" alt="GitHub contribution streak"/>
-
-</div>
-
-## Connect
-
-I'm interested in connecting with developers, designers, and teams who enjoy building useful digital products and solving real-world problems.
-
-<div align="center">
-
-<a href="https://github.com/Penyuable">
-  <img src="https://img.shields.io/badge/GITHUB-Penyuable-11151C?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/samuel-bryant-eka-putra">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-11151C?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn profile"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=252B35&height=1&section=footer" width="100%" alt="Footer divider"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,supabase,postgres,prisma&theme=dark" />
 
 <br/>
 
-<sub>DESIGN WITH PURPOSE. BUILD WITH PRECISION. IMPROVE CONTINUOUSLY.</sub>
+<a href="https://github.com/kmgitgroup/luxomanagementdashboard">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=0B0F14&labelColor=38BDF8" />
+</a>
+
+## 05 / Development Approach
+
+I approach software development through a combination of engineering discipline and design thinking.
+
+**01 — Understand**
+
+Identify the problem, requirements, and objectives before implementation.
+
+**02 — Design**
+
+Translate requirements into intuitive interfaces and structured application flows.
+
+**03 — Engineer**
+
+Build maintainable applications with clear architecture, reusable components, and reliable integrations.
+
+**04 — Refine**
+
+Improve performance, usability, responsiveness, and overall product quality.
+
+## 06 / Current Focus
+
+- Developing scalable full-stack web applications.
+- Improving application architecture and backend performance.
+- Building responsive and intuitive user interfaces.
+- Exploring better approaches to database optimization and API integration.
+- Expanding mobile development capabilities.
+
+## 07 / Beyond the Code
+
+I believe great software is not defined only by how it works, but also by how people experience it.
+
+My goal is to create digital products that are practical, accessible, visually consistent, and built to solve real-world problems.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=252B35&height=1" width="100%" />
+
+<br/>
+
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+Open to connecting with developers, designers, and people building impactful digital products.
+
+<br/>
+
+<a href="https://github.com/Bryxy">
+  <img src="https://img.shields.io/badge/GITHUB-Bryxy-11151C?style=flat-square&logo=github&logoColor=38BDF8" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/samuel-bryant-eka-putra">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-11151C?style=flat-square&logo=linkedin&logoColor=38BDF8" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=8&section=footer" width="100%" alt="Minimal footer"/>
+<sub>DESIGN WITH PURPOSE · ENGINEER WITH PRECISION · BUILD FOR IMPACT</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=8" width="100%" />
 
 </div>
