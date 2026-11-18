@@ -22,7 +22,7 @@ I believe good software should be intuitive to use, reliable in operation, and t
 
 | AREA | FOCUS |
 |:--|:--|
-| **Mobile Engineering** | Android, Kotlin, Flutter, Dart |
+| **Mobile Developer** | Android, Kotlin, Flutter, Dart |
 | **Frontend Engineering** | React, Next.js, TypeScript, Tailwind CSS |
 | **Backend Engineering** | NestJS, Node.js, REST API |
 | **Database Systems** | PostgreSQL, Supabase, Prisma |
