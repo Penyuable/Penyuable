@@ -18,13 +18,7 @@ Building thoughtful digital products through engineering, technology, and design
 
 \<br/>\<br/>
 
-\<a href="[https://github.com/Bryxy](https://github.com/Bryxy)">
-\<img src="[https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=38BDF8](https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge\&logo=github\&logoColor=38BDF8)" />
-\</a>
-&nbsp;
-\<a href="[https://linkedin.com/in/samuel-bryant-eka-putra](https://linkedin.com/in/samuel-bryant-eka-putra)">
-\<img src="[https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=38BDF8](https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge\&logo=linkedin\&logoColor=38BDF8)" />
-\</a>
+\<a href="[https://github.com/Bryxy](https://github.com/Bryxy)"> \<img src="[https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=38BDF8](https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge\&logo=github\&logoColor=38BDF8)" /> \</a> &nbsp; \<a href="[https://linkedin.com/in/samuel-bryant-eka-putra](https://linkedin.com/in/samuel-bryant-eka-putra)"> \<img src="[https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=38BDF8](https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge\&logo=linkedin\&logoColor=38BDF8)" /> \</a>
 
 \<br/>\<br/>
 
