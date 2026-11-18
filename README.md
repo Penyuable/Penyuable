@@ -1,36 +1,40 @@
-&#x20;\<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=12](https://capsule-render.vercel.app/api?type=rect\&color=0B0F14\&height=12)" width="100%" />
+<div align="center">
 
-\<br/>\<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=12" width="100%" />
 
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=SOFTWARE+ENGINEERING;MOBILE+%26+FRONTEND+DEVELOPMENT;DESIGNING+DIGITAL+EXPERIENCES](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=13\&duration=3000\&pause=1200\&color=38BDF8\&center=true\&vCenter=true\&width=500\&lines=SOFTWARE+ENGINEERING;MOBILE+%26+FRONTEND+DEVELOPMENT;DESIGNING+DIGITAL+EXPERIENCES)" />
+<br/><br/>
 
-\<br/>\<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=SOFTWARE+ENGINEERING;MOBILE+%26+FRONTEND+DEVELOPMENT;DESIGNING+DIGITAL+EXPERIENCES" alt="Typing SVG" />
 
-# SAMUEL BRYANT\<br/>EKA PUTRA
+<br/><br/>
 
-### SOFTWARE DEVELOPER / MOBILE ENGINEER / UI/UX DESIGNER
+# SAMUEL BRYANT EKA PUTRA
 
-\<br/>
+### SOFTWARE DEVELOPER · MOBILE ENGINEER · UI/UX DESIGNER
 
 Building thoughtful digital products through engineering, technology, and design.
 
-\<br/>\<br/>
+<br/>
 
-\<a href="[https://github.com/Bryxy](https://github.com/Bryxy)"> \<img src="[https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=38BDF8](https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge\&logo=github\&logoColor=38BDF8)" /> \</a> &nbsp; \<a href="[https://linkedin.com/in/samuel-bryant-eka-putra](https://linkedin.com/in/samuel-bryant-eka-putra)"> \<img src="[https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=38BDF8](https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge\&logo=linkedin\&logoColor=38BDF8)" /> \</a>
+<a href="https://github.com/Bryxy">
+<img src="https://img.shields.io/badge/GITHUB-BRYXY-0B0F14?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+<a href="https://linkedin.com/in/samuel-bryant-eka-putra">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B0F14?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2](https://capsule-render.vercel.app/api?type=rect\&color=38BDF8\&height=2)" width="35%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2" width="35%" />
 
-\<br/>
+<br/>
 
-\<sub>BASED IN INDONESIA · BUILDING FOR THE DIGITAL WORLD\</sub>
+<sub>BASED IN INDONESIA · BUILDING FOR THE DIGITAL WORLD</sub>
 
-\<br/>\<br/>
+<br/><br/>
 
-\</div>
+</div>
 
 ---
 
@@ -48,9 +52,9 @@ I enjoy working across the entire product lifecycle — from defining concepts a
 
 ## EXPERTISE
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### MOBILE ENGINEERING
 
@@ -59,8 +63,8 @@ I enjoy working across the entire product lifecycle — from defining concepts a
 - Flutter
 - Dart
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### FRONTEND ENGINEERING
 
@@ -70,10 +74,10 @@ I enjoy working across the entire product lifecycle — from defining concepts a
 - JavaScript
 - Tailwind CSS
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### BACKEND ENGINEERING
 
@@ -82,8 +86,8 @@ I enjoy working across the entire product lifecycle — from defining concepts a
 - REST API
 - Java
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### DATABASE SYSTEMS
 
@@ -92,10 +96,10 @@ I enjoy working across the entire product lifecycle — from defining concepts a
 - Prisma
 - Data Modeling
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top" colspan="2">
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### PRODUCT DESIGN
 
@@ -105,45 +109,45 @@ I enjoy working across the entire product lifecycle — from defining concepts a
 - Prototyping
 - Interface Design
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
 ---
 
 ## TECHNOLOGY STACK
 
-\<div align="center">
+<div align="center">
 
 **MOBILE DEVELOPMENT**
 
-\<img src="[https://skillicons.dev/icons?i=kotlin,android,flutter,dart&theme=dark](https://skillicons.dev/icons?i=kotlin,android,flutter,dart\&theme=dark)" />
+<img src="https://skillicons.dev/icons?i=kotlin,android,flutter,dart&theme=dark" />
 
-\<br/>\<br/>
+<br/><br/>
 
 **FRONTEND DEVELOPMENT**
 
-\<img src="[https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind\&theme=dark)" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" />
 
-\<br/>\<br/>
+<br/><br/>
 
 **BACKEND DEVELOPMENT**
 
-\<img src="[https://skillicons.dev/icons?i=nodejs,nestjs,java&theme=dark](https://skillicons.dev/icons?i=nodejs,nestjs,java\&theme=dark)" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java&theme=dark" />
 
-\<br/>\<br/>
+<br/><br/>
 
 **DATABASE & ORM**
 
-\<img src="[https://skillicons.dev/icons?i=postgres,supabase,prisma&theme=dark](https://skillicons.dev/icons?i=postgres,supabase,prisma\&theme=dark)" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma&theme=dark" />
 
-\<br/>\<br/>
+<br/><br/>
 
 **DESIGN & DEVELOPMENT TOOLS**
 
-\<img src="[https://skillicons.dev/icons?i=figma,git,github,vscode,postman&theme=dark](https://skillicons.dev/icons?i=figma,git,github,vscode,postman\&theme=dark)" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman&theme=dark" />
 
-\</div>
+</div>
 
 ---
 
@@ -151,7 +155,7 @@ I enjoy working across the entire product lifecycle — from defining concepts a
 
 ### LUXO Management Dashboard
 
-\<sub>FULL-STACK APPLICATION   /   BUSINESS MANAGEMENT   /   2026\</sub>
+<sub>FULL-STACK APPLICATION · BUSINESS MANAGEMENT · 2026</sub>
 
 A centralized business management platform designed to connect organizational divisions, streamline operational workflows, and improve business visibility.
 
@@ -159,64 +163,64 @@ The platform brings multiple departments into one integrated environment, helpin
 
 **PLATFORM MODULES**
 
-| MODULE                 | DESCRIPTION                                                  |
-| :--------------------- | :----------------------------------------------------------- |
-| **Management**         | Centralized business overview and organizational monitoring  |
-| **Project Management** | Project planning, assignments, and progress tracking         |
-| **Operations**         | Operational workflows, schedules, and issue management       |
-| **Finance**            | Budget monitoring, financial records, and approval workflows |
-| **IT Management**      | Technical support, system monitoring, and asset management   |
-| **Reporting**          | Business reports and document review workflows               |
-| **Calendar**           | Centralized scheduling and meeting coordination              |
+| MODULE | DESCRIPTION |
+|:--|:--|
+| **Management** | Centralized business overview and organizational monitoring |
+| **Project Management** | Project planning, assignments, and progress tracking |
+| **Operations** | Operational workflows, schedules, and issue management |
+| **Finance** | Budget monitoring, financial records, and approval workflows |
+| **IT Management** | Technical support, system monitoring, and asset management |
+| **Reporting** | Business reports and document review workflows |
+| **Calendar** | Centralized scheduling and meeting coordination |
 
 **TECHNOLOGY**
 
-\<img src="[https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,supabase,postgres,prisma&theme=dark](https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,supabase,postgres,prisma\&theme=dark)" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,supabase,postgres,prisma&theme=dark" />
 
-\<br/>
+<br/>
 
-\<a href="[https://github.com/kmgitgroup/luxomanagementdashboard](https://github.com/kmgitgroup/luxomanagementdashboard)">
-\<img src="[https://img.shields.io/badge/VIEW_PROJECT-0B0F14?style=for-the-badge&logo=github&logoColor=38BDF8](https://img.shields.io/badge/VIEW_PROJECT-0B0F14?style=for-the-badge\&logo=github\&logoColor=38BDF8)" />
-\</a>
+<a href="https://github.com/kmgitgroup/luxomanagementdashboard">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0B0F14?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
 
 ---
 
 ## DEVELOPMENT PHILOSOPHY
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **01 — UNDERSTAND**
 
 Understand the problem, identify requirements, and define the objectives before implementation.
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **02 — DESIGN**
 
 Translate requirements into intuitive interfaces, structured workflows, and meaningful experiences.
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **03 — ENGINEER**
 
 Build maintainable applications with reusable components, clear architecture, and reliable integrations.
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **04 — REFINE**
 
 Continuously improve performance, usability, responsiveness, and overall product quality.
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -241,26 +245,31 @@ I aim to build digital products where engineering and design work together — w
 
 ---
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2](https://capsule-render.vercel.app/api?type=rect\&color=38BDF8\&height=2)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2" width="100%" />
 
-\<br/>\<br/>
+<br/><br/>
 
 ### LET'S CREATE SOMETHING THAT MATTERS.
 
 Building meaningful products through design and engineering.
 
-\<br/>\<br/>
+<br/><br/>
 
-\<a href="[https://github.com/Bryxy](https://github.com/Bryxy)"> \<img src="[https://img.shields.io/badge/GITHUB-BRYXY-0B0F14?style=flat-square&logo=github&logoColor=38BDF8](https://img.shields.io/badge/GITHUB-BRYXY-0B0F14?style=flat-square\&logo=github\&logoColor=38BDF8)" /> \</a> &nbsp; \<a href="[https://linkedin.com/in/samuel-bryant-eka-putra](https://linkedin.com/in/samuel-bryant-eka-putra)"> \<img src="[https://img.shields.io/badge/LINKEDIN-CONNECT-0B0F14?style=flat-square&logo=linkedin&logoColor=38BDF8](https://img.shields.io/badge/LINKEDIN-CONNECT-0B0F14?style=flat-square\&logo=linkedin\&logoColor=38BDF8)" /> \</a>
+<a href="https://github.com/Bryxy">
+<img src="https://img.shields.io/badge/GITHUB-BRYXY-0B0F14?style=flat-square&logo=github&logoColor=38BDF8" />
+</a>
+<a href="https://linkedin.com/in/samuel-bryant-eka-putra">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B0F14?style=flat-square&logo=linkedin&logoColor=38BDF8" />
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<sub>ENGINEERED WITH PURPOSE · DESIGNED WITH INTENTION\</sub>
+<sub>ENGINEERED WITH PURPOSE · DESIGNED WITH INTENTION</sub>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=12](https://capsule-render.vercel.app/api?type=rect\&color=0B0F14\&height=12)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=12" width="100%" />
 
-\</div>
+</div>
